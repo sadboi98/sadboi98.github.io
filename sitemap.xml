@@ -7,13 +7,19 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://sadboi98.github.io/images/1428x323.jpg</loc>
+    <lastmod>2017-04-11</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://sadboi98.github.io/index.html</loc>
     <lastmod>2017-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://sadboi98.github.io/untitled-2.html</loc>
+    <loc>http://sadboi98.github.io/home2.html</loc>
     <lastmod>2017-04-11</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
