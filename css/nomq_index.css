@@ -1,0 +1,37 @@
+	#muse_css_mq
+	{
+		background-color: #FFFFFF;
+	}
+
+	#bp_infinity.active
+	{
+		display: block;
+	}
+
+	#page
+	{
+		width: 1378px;
+	}
+
+	#about
+	{
+		left: 30px;
+	}
+
+	#contact
+	{
+		margin-top: 19px;
+		left: 223px;
+	}
+
+	#service
+	{
+		margin-top: 18px;
+		left: 218px;
+	}
+
+	body
+	{
+		min-width: 1378px;
+	}
+
