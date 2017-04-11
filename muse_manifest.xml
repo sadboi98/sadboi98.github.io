@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sadboi98.github.io" resolutions="1x" timestamp="1491878840865">
+<manifest alg="2" build="2015.1.1.343" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="sadboi98.github.io" resolutions="1x" timestamp="1491879092124">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="index.css" crc="23520797" ref="index"/>
